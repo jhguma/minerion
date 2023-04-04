@@ -1,0 +1,63 @@
+[04Apr2023 01:58:58.144] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jungchoa is f771321d-d764-455d-94b0-06b4b653b01e
+[04Apr2023 01:59:03.586] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d037eea
+[04Apr2023 01:59:03.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jungchoa[/211.186.190.37:51819] logged in with entity id 1122 at (53.5, 64.0, 56.5)
+[04Apr2023 01:59:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa joined the game
+[04Apr2023 01:59:04.741] [Server thread/INFO] [voicechat/]: Received secret request of Jungchoa (15)
+[04Apr2023 01:59:04.742] [Server thread/INFO] [voicechat/]: Sent secret to Jungchoa
+[04Apr2023 02:00:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Alex's Mobs]
+[04Apr2023 02:06:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Apr2023 02:06:46.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemod Jungchoa creative<--[HERE]
+[04Apr2023 02:07:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Monster Hunter]
+[04Apr2023 02:07:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Apr2023 02:07:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemod creative Jungchoa<--[HERE]
+[04Apr2023 02:07:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Jungchoa's game mode to Creative Mode
+[04Apr2023 02:09:55.984] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/7287, l='ServerLevel[world]', x=418.50, y=50.00, z=670.50]
+[04Apr2023 02:12:27.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:27.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:28.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:29.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:29.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:29.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:29.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:12:29.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:13:09.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Apr2023 02:19:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Take Aim]
+[04Apr2023 02:20:39.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [A Throwaway Joke]
+[04Apr2023 02:22:39.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [He Was Number One!]
+[04Apr2023 02:23:53.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12252, l='ServerLevel[world]', x=1424.50, y=53.00, z=295.50]
+[04Apr2023 02:25:15.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14739, l='ServerLevel[world]', x=824.50, y=53.00, z=18.50]
+[04Apr2023 02:25:16.444] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14778, l='ServerLevel[world]', x=823.50, y=50.00, z=22.50]
+[04Apr2023 02:33:21.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has reached the goal [Sky's the Limit]
+[04Apr2023 02:35:07.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Hot Stuff]
+[04Apr2023 02:39:09.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [We Need to Go Deeper]
+[04Apr2023 02:39:09.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[04Apr2023 02:47:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Gone Bananas!]
+[04Apr2023 02:47:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [The Soul-ly Ghost]
+[04Apr2023 02:48:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [I SAID DART GUN!]
+[04Apr2023 02:48:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Gamer Skunk Bath Water]
+[04Apr2023 02:49:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Rainbow Road]
+[04Apr2023 02:49:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Smitty WerbenJagerManJensen]
+[04Apr2023 02:50:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [A Terrible Fortress]
+[04Apr2023 02:50:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Straddle My Ol' Saddle]
+[04Apr2023 02:51:11.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungchoa lost connection: Disconnected
+[04Apr2023 02:51:11.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa left the game
+[04Apr2023 02:51:11.188] [Server thread/INFO] [voicechat/]: Disconnecting client Jungchoa
+[04Apr2023 03:16:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[04Apr2023 03:16:14.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode suvival  Jungchoa<--[HERE]
