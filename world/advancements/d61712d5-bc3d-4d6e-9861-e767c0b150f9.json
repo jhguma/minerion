@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-04-12 11:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-04-08 13:44:30 +0000"
@@ -1100,6 +1106,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2023-04-08 13:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-04-12 11:53:09 +0000"
     },
     "done": true
   },

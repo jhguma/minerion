@@ -124,3 +124,33 @@
 [12Apr2023 11:49:41.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [12Apr2023 11:51:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [12Apr2023 11:51:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cd .git<--[HERE]
+[12Apr2023 11:53:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myom__ has made the advancement [Hot Stuff]
+[12Apr2023 11:54:17.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> jana?
+[12Apr2023 11:54:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> dd
+[12Apr2023 11:54:28.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungchoa lost connection: Disconnected
+[12Apr2023 11:54:28.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa left the game
+[12Apr2023 11:54:28.711] [Server thread/INFO] [voicechat/]: Disconnecting client Jungchoa
+[12Apr2023 11:54:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> jaja
+[12Apr2023 11:54:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> good
+[12Apr2023 11:54:42.883] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jungchoa is f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 11:54:48.118] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2021dfe7
+[12Apr2023 11:54:48.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jungchoa[/211.186.190.37:50863] logged in with entity id 61151 at (-1096.5717560319513, -54.0, 1257.68444925428)
+[12Apr2023 11:54:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa joined the game
+[12Apr2023 11:54:48.806] [Server thread/INFO] [voicechat/]: Received secret request of Jungchoa (15)
+[12Apr2023 11:54:48.807] [Server thread/INFO] [voicechat/]: Sent secret to Jungchoa
+[12Apr2023 11:54:52.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 11:56:37.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cdf3 was kicked for floating too long!
+[12Apr2023 11:56:37.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cdf3 lost connection: Flying is not enabled on this server
+[12Apr2023 11:56:37.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 left the game
+[12Apr2023 11:56:37.716] [Server thread/INFO] [voicechat/]: Disconnecting client cdf3
+[12Apr2023 11:56:46.707] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player cdf3 is d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:56:52.873] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75d556e3
+[12Apr2023 11:56:52.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cdf3[/118.35.109.205:52434] logged in with entity id 62047 at (-762.4572214174356, 65.85489329934836, 1013.0330825041431)
+[12Apr2023 11:56:52.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 joined the game
+[12Apr2023 11:56:53.012] [Server thread/INFO] [voicechat/]: Received secret request of cdf3 (15)
+[12Apr2023 11:56:53.013] [Server thread/INFO] [voicechat/]: Sent secret to cdf3
+[12Apr2023 11:56:58.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:59:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 어..? 코인이 생겻네?
+[12Apr2023 12:01:10.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 어디
+[12Apr2023 12:01:16.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 동굴 지네 겁나 아프네 ..
+[12Apr2023 12:02:09.462] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
