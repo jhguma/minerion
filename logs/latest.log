@@ -1,63 +1,126 @@
-[04Apr2023 01:58:58.144] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jungchoa is f771321d-d764-455d-94b0-06b4b653b01e
-[04Apr2023 01:59:03.586] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d037eea
-[04Apr2023 01:59:03.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jungchoa[/211.186.190.37:51819] logged in with entity id 1122 at (53.5, 64.0, 56.5)
-[04Apr2023 01:59:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa joined the game
-[04Apr2023 01:59:04.741] [Server thread/INFO] [voicechat/]: Received secret request of Jungchoa (15)
-[04Apr2023 01:59:04.742] [Server thread/INFO] [voicechat/]: Sent secret to Jungchoa
-[04Apr2023 02:00:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Alex's Mobs]
-[04Apr2023 02:06:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[04Apr2023 02:06:46.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemod Jungchoa creative<--[HERE]
-[04Apr2023 02:07:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Monster Hunter]
-[04Apr2023 02:07:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[04Apr2023 02:07:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemod creative Jungchoa<--[HERE]
-[04Apr2023 02:07:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Jungchoa's game mode to Creative Mode
-[04Apr2023 02:09:55.984] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/7287, l='ServerLevel[world]', x=418.50, y=50.00, z=670.50]
-[04Apr2023 02:12:27.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:27.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:28.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:29.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:29.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:29.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:29.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:12:29.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:13:09.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Apr2023 02:19:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Take Aim]
-[04Apr2023 02:20:39.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [A Throwaway Joke]
-[04Apr2023 02:22:39.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [He Was Number One!]
-[04Apr2023 02:23:53.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12252, l='ServerLevel[world]', x=1424.50, y=53.00, z=295.50]
-[04Apr2023 02:25:15.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14739, l='ServerLevel[world]', x=824.50, y=53.00, z=18.50]
-[04Apr2023 02:25:16.444] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14778, l='ServerLevel[world]', x=823.50, y=50.00, z=22.50]
-[04Apr2023 02:33:21.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has reached the goal [Sky's the Limit]
-[04Apr2023 02:35:07.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Hot Stuff]
-[04Apr2023 02:39:09.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [We Need to Go Deeper]
-[04Apr2023 02:39:09.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
-[04Apr2023 02:47:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Gone Bananas!]
-[04Apr2023 02:47:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [The Soul-ly Ghost]
-[04Apr2023 02:48:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [I SAID DART GUN!]
-[04Apr2023 02:48:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Gamer Skunk Bath Water]
-[04Apr2023 02:49:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Rainbow Road]
-[04Apr2023 02:49:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Smitty WerbenJagerManJensen]
-[04Apr2023 02:50:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [A Terrible Fortress]
-[04Apr2023 02:50:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa has made the advancement [Straddle My Ol' Saddle]
-[04Apr2023 02:51:11.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungchoa lost connection: Disconnected
-[04Apr2023 02:51:11.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa left the game
-[04Apr2023 02:51:11.188] [Server thread/INFO] [voicechat/]: Disconnecting client Jungchoa
-[04Apr2023 03:16:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[04Apr2023 03:16:14.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode suvival  Jungchoa<--[HERE]
+[12Apr2023 05:36:22.798] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player myom__ is e6167f21-5932-4216-b9cc-b8a10c1d21f3
+[12Apr2023 05:36:29.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d086d04
+[12Apr2023 05:36:29.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myom__[/121.177.48.160:51916] logged in with entity id 8933 at (-620.600058509242, 70.0, 935.158440207562)
+[12Apr2023 05:36:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myom__ joined the game
+[12Apr2023 05:36:30.407] [Server thread/INFO] [voicechat/]: Received secret request of myom__ (15)
+[12Apr2023 05:36:30.408] [Server thread/INFO] [voicechat/]: Sent secret to myom__
+[12Apr2023 05:36:35.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player e6167f21-5932-4216-b9cc-b8a10c1d21f3
+[12Apr2023 06:24:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myom__ has made the advancement [Best Friends Forever]
+[12Apr2023 06:36:52.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myom__ lost connection: Disconnected
+[12Apr2023 06:36:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myom__ left the game
+[12Apr2023 06:36:52.355] [Server thread/INFO] [voicechat/]: Disconnecting client myom__
+[12Apr2023 09:33:50.862] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player orangeNoel is 5d514c44-c104-45fd-93d1-9a82e58d6cd5
+[12Apr2023 09:33:55.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@422ba238
+[12Apr2023 09:33:55.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: orangeNoel[/122.202.45.197:12932] logged in with entity id 17729 at (-694.6958364379144, 72.0, 926.0340299274945)
+[12Apr2023 09:33:55.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orangeNoel joined the game
+[12Apr2023 09:33:57.105] [Server thread/INFO] [voicechat/]: Received secret request of orangeNoel (15)
+[12Apr2023 09:33:57.106] [Server thread/INFO] [voicechat/]: Sent secret to orangeNoel
+[12Apr2023 09:34:02.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 5d514c44-c104-45fd-93d1-9a82e58d6cd5
+[12Apr2023 09:38:50.404] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jungchoa is f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 09:38:55.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7081f086
+[12Apr2023 09:38:55.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jungchoa[/211.186.190.37:63273] logged in with entity id 18310 at (-738.6147745841295, 72.0, 619.9831197971654)
+[12Apr2023 09:38:55.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa joined the game
+[12Apr2023 09:38:57.370] [Server thread/INFO] [voicechat/]: Received secret request of Jungchoa (15)
+[12Apr2023 09:38:57.371] [Server thread/INFO] [voicechat/]: Sent secret to Jungchoa
+[12Apr2023 09:39:02.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 09:54:40.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungchoa lost connection: Disconnected
+[12Apr2023 09:54:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa left the game
+[12Apr2023 09:54:40.859] [Server thread/INFO] [voicechat/]: Disconnecting client Jungchoa
+[12Apr2023 10:00:49.653] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jungchoa is f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 10:00:54.918] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ef3bafc
+[12Apr2023 10:00:54.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jungchoa[/211.186.190.37:64105] logged in with entity id 24508 at (-738.5, 68.0, 625.5)
+[12Apr2023 10:00:54.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jungchoa joined the game
+[12Apr2023 10:00:55.064] [Server thread/INFO] [voicechat/]: Received secret request of Jungchoa (15)
+[12Apr2023 10:00:55.065] [Server thread/INFO] [voicechat/]: Sent secret to Jungchoa
+[12Apr2023 10:00:59.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f771321d-d764-455d-94b0-06b4b653b01e
+[12Apr2023 10:12:34.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> jara
+[12Apr2023 10:17:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 원숭아 ㅠㅠ 가출햇어 어딧냐
+[12Apr2023 10:18:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 가출한 원숭이를 찾습니다 나이 : 1세 / 노란털이 이쁨
+[12Apr2023 10:31:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 막내
+[12Apr2023 10:31:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <orangeNoel> 왱
+[12Apr2023 10:31:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 다이아 2개에 간단알바 하나 하실?
+[12Apr2023 10:32:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <orangeNoel> 몬데
+[12Apr2023 10:32:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 농사 캐고 심기
+[12Apr2023 10:32:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 겁나 혜자인데
+[12Apr2023 10:44:26.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 알바생분 입구에 상제에 일한 돈이랑 서비스 넣어놨어요 캔거 거기다가 넣어두심 되요
+[12Apr2023 10:45:35.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <orangeNoel> 임무완료 복귀합니다
+[12Apr2023 10:45:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 아이!! 고생많었어요! 넉넉히 넣어놨습니다
+[12Apr2023 11:05:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orangeNoel has made the advancement [Gone Bananas!]
+[12Apr2023 11:08:42.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orangeNoel lost connection: Disconnected
+[12Apr2023 11:08:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orangeNoel left the game
+[12Apr2023 11:08:42.459] [Server thread/INFO] [voicechat/]: Disconnecting client orangeNoel
+[12Apr2023 11:10:22.524] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player cdf3 is d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:10:28.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d2a9d55
+[12Apr2023 11:10:28.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cdf3[/118.35.109.205:51307] logged in with entity id 42054 at (-515.2216858354052, -54.0, 705.3526071539593)
+[12Apr2023 11:10:28.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 joined the game
+[12Apr2023 11:10:30.408] [Server thread/INFO] [voicechat/]: Received secret request of cdf3 (15)
+[12Apr2023 11:10:30.409] [Server thread/INFO] [voicechat/]: Sent secret to cdf3
+[12Apr2023 11:10:36.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:28:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 쓰앵님
+[12Apr2023 11:28:28.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 잠좀잘게요
+[12Apr2023 11:28:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 엡
+[12Apr2023 11:28:35.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 저 날라다니는거 개아프네
+[12Apr2023 11:29:20.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 저거 주민 책파는거
+[12Apr2023 11:29:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 사면 리셋안됨?
+[12Apr2023 11:29:44.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 우리집꺼 건듬?
+[12Apr2023 11:29:55.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 뭐있나 구경만 하고옴
+[12Apr2023 11:30:02.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 리필되면 써도디냐물어볼랬는뎈ㅋ
+[12Apr2023 11:31:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 그거 소유권 ㅁ내딸내미임
+[12Apr2023 11:31:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 나도 아직 안써봣다 !!
+[12Apr2023 11:33:38.933] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player myom__ is e6167f21-5932-4216-b9cc-b8a10c1d21f3
+[12Apr2023 11:33:44.824] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@520bcc10
+[12Apr2023 11:33:44.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myom__[/118.39.153.47:50696] logged in with entity id 50093 at (-551.1090452067725, 63.0, 968.5164351334461)
+[12Apr2023 11:33:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myom__ joined the game
+[12Apr2023 11:33:46.394] [Server thread/INFO] [voicechat/]: Received secret request of myom__ (15)
+[12Apr2023 11:33:46.395] [Server thread/INFO] [voicechat/]: Sent secret to myom__
+[12Apr2023 11:33:52.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player e6167f21-5932-4216-b9cc-b8a10c1d21f3
+[12Apr2023 11:34:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 할로우
+[12Apr2023 11:34:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> GDG
+[12Apr2023 11:34:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> ㅎㅇㅎㅇ
+[12Apr2023 11:34:35.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 뭐
+[12Apr2023 11:34:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> ?
+[12Apr2023 11:35:38.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 압쥐
+[12Apr2023 11:35:46.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 우리 내가 만들 아파트 창고방으로 쓸까?
+[12Apr2023 11:35:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 응?
+[12Apr2023 11:35:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 창고방으로 써도 괜찮아!!
+[12Apr2023 11:35:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 소유는 우리다!!
+[12Apr2023 11:36:04.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 창고가 너무 부족해성
+[12Apr2023 11:36:17.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 맞아 집 철거하고 크게 지을까 했는데
+[12Apr2023 11:36:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 엄밀히 말하면 땅주인는 압쥐고 건물주는 나얌
+[12Apr2023 11:36:41.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 원래 상속 하면 나 아들래미 딸내미꺼임
+[12Apr2023 11:36:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 has made the advancement [Mine? Mine? Mine?]
+[12Apr2023 11:36:48.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[12Apr2023 11:36:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> Z
+[12Apr2023 11:37:03.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jungchoa> 원래 자식내미들한테 주고 여생을 즐기는거란다 ~
+[12Apr2023 11:39:20.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[12Apr2023 11:39:20.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cdf3 moved too quickly! 6.509310892336266,-1.8622826671866903,-7.67828405686771
+[12Apr2023 11:41:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> jaja
+[12Apr2023 11:41:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> jaja
+[12Apr2023 11:41:20.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> jaja
+[12Apr2023 11:41:20.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> jaja
+[12Apr2023 11:41:21.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cdf3 lost connection: Disconnected
+[12Apr2023 11:41:21.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 left the game
+[12Apr2023 11:41:21.018] [Server thread/INFO] [voicechat/]: Disconnecting client cdf3
+[12Apr2023 11:41:29.063] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player cdf3 is d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:41:35.320] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d69b4c1
+[12Apr2023 11:41:35.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cdf3[/118.35.109.205:52030] logged in with entity id 54563 at (-209.30000001192093, 63.0, 874.3279776222231)
+[12Apr2023 11:41:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdf3 joined the game
+[12Apr2023 11:41:35.788] [Server thread/INFO] [voicechat/]: Received secret request of cdf3 (15)
+[12Apr2023 11:41:35.789] [Server thread/INFO] [voicechat/]: Sent secret to cdf3
+[12Apr2023 11:41:41.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player d61712d5-bc3d-4d6e-9861-e767c0b150f9
+[12Apr2023 11:44:34.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> ㅁ묨
+[12Apr2023 11:44:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 웨
+[12Apr2023 11:44:42.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 저거 주민 사면 리필됨?
+[12Apr2023 11:44:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> dd
+[12Apr2023 11:44:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 자고일어나면?
+[12Apr2023 11:45:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> 주민이 자고일어나서?>
+[12Apr2023 11:45:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myom__> 쟤네 침대없어서 못잠
+[12Apr2023 11:45:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cdf3> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[12Apr2023 11:49:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2023 11:49:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[12Apr2023 11:49:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2023 11:49:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[12Apr2023 11:49:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[12Apr2023 11:49:41.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[12Apr2023 11:51:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2023 11:51:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cd .git<--[HERE]
